@@ -44,8 +44,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   language-code="es"
 ></df-messenger>
 
-
-<div> ### Teachable Machine Image Model </div>
+### Teachable Machine Image Model
+<!--<div> ### Teachable Machine Image Model </div>-->
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
