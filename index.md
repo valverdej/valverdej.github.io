@@ -45,6 +45,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ></df-messenger>
 
 ## Teachable Machine Image Model
+
+(Nota: Con mi cara si funciona el Modelo)
+
 <!--<div> ### Teachable Machine Image Model </div>-->
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -56,7 +59,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "https://teachablemachine.withgoogle.com/models/8PDaz04GQ/";
+    const URL = "https://teachablemachine.withgoogle.com/models/0hWZC_YGK/";
 
     let model, webcam, labelContainer, maxPredictions;
 
@@ -104,6 +107,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
         }
     }
 </script>
+
 
 
 
