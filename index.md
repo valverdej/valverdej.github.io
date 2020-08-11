@@ -56,7 +56,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "https://teachablemachine.withgoogle.com/models/oNA4Pj0bl/";
+    const URL = "https://teachablemachine.withgoogle.com/models/8PDaz04GQ/";
 
     let model, webcam, labelContainer, maxPredictions;
 
@@ -104,6 +104,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
         }
     }
 </script>
+
 
 
 
