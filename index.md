@@ -1,8 +1,21 @@
-## Welcome to GitHub Pages
+# Bienvenidos 
 
-You can use the [editor on GitHub](https://github.com/valverdej/valverdej.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Introducción
+
+La ciudad de Guayaquil es cuna de muchos lugares y edificios de gran interés e historia, por ello se ha preparado esta aplicación para que nos resulte mucho más sencillo identificar dichos puntos, muchos turistas e incluso personas de la ciudad no conocen o identifican bien estos lugares, esta herramienta puede ser de gran ayuda para esas personas.
+
+## Resumen 
+
+Se ha realizado una aplicación mediante Teachable Machine, con ella podemos identificar algunos de los edificios más emblemáticos de la ciudad de Guayaquil. Para su desarrollo se ha recolectado varias imágenes de muestra que han servido como referencia para que la aplicación pueda identificar estos puntos importantes. Esta aplicación puede llegar a ser muy útil para los turistas u otras personas que están conociendo la ciudad, y quieran identi-ficar ciertos puntos de la misma.
+
+## Desarrollo de la Aplicación
+
+**¿Qué es teachable Machine?**
+Aplicación Web que de una forma rápida y sencilla nos permite crear modelos de aprendizaje automático para nuestros sitios web, aplicaciones y mucho más, sin necesidad de conocimientos especializados ni de programar.
+
+**¿Comó se realizó la preparación del modelo?**
+Teachable Machine se utiliza para reconocer imágenes, sonidos o posturas. Sube tus propios archivos de imagen o captúralos en vivo con un micrófono o una cámara web , Estos ejemplos permanecen en el dispositivo y nun-ca abandonan tu ordenador a menos que elijas guardar el proyecto en Google Drive.
 
 ### Markdown
 
@@ -28,25 +41,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/valverdej/valverdej.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Teachable Machine Image Model
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-<df-messenger
-  intent="WELCOME"
-  chat-title="ArquitecturaComputadoras"
-  agent-id="21d16550-f0bd-4c04-a8df-76ccdd7b3b2a"
-  language-code="es"
-></df-messenger>
-
-## Teachable Machine Image Model
-
-(Nota: Con mi cara si funciona el Modelo)
+El Modelo consiste en utilizar imagenes para lograr identificar algún edificio emblemático de la ciudad de Guayaquil.
 
 <!--<div> ### Teachable Machine Image Model </div>-->
 <button type="button" onclick="init()">Start</button>
@@ -59,7 +57,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
     // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
 
     // the link to your model provided by Teachable Machine export panel
-    const URL = "https://teachablemachine.withgoogle.com/models/0hWZC_YGK/";
+    const URL = "https://teachablemachine.withgoogle.com/models/8PDaz04GQ/";
 
     let model, webcam, labelContainer, maxPredictions;
 
@@ -107,6 +105,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
         }
     }
 </script>
+
 
 
 
