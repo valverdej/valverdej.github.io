@@ -1,20 +1,22 @@
 # Bienvenidos 
 
 
-## Introducción
+### Introducción
 
 La ciudad de Guayaquil es cuna de muchos lugares y edificios de gran interés e historia, por ello se ha preparado esta aplicación para que nos resulte mucho más sencillo identificar dichos puntos, muchos turistas e incluso personas de la ciudad no conocen o identifican bien estos lugares, esta herramienta puede ser de gran ayuda para esas personas.
 
-## Resumen 
+### Resumen 
 
 Se ha realizado una aplicación mediante Teachable Machine, con ella podemos identificar algunos de los edificios más emblemáticos de la ciudad de Guayaquil. Para su desarrollo se ha recolectado varias imágenes de muestra que han servido como referencia para que la aplicación pueda identificar estos puntos importantes. Esta aplicación puede llegar a ser muy útil para los turistas u otras personas que están conociendo la ciudad, y quieran identi-ficar ciertos puntos de la misma.
 
-## Desarrollo de la Aplicación
+### Desarrollo de la Aplicación
 
 **¿Qué es teachable Machine?**
+
 Aplicación Web que de una forma rápida y sencilla nos permite crear modelos de aprendizaje automático para nuestros sitios web, aplicaciones y mucho más, sin necesidad de conocimientos especializados ni de programar.
 
 **¿Comó se realizó la preparación del modelo?**
+
 Teachable Machine se utiliza para reconocer imágenes, sonidos o posturas. Sube tus propios archivos de imagen o captúralos en vivo con un micrófono o una cámara web , Estos ejemplos permanecen en el dispositivo y nun-ca abandonan tu ordenador a menos que elijas guardar el proyecto en Google Drive.
 
 ### Markdown
