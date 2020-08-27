@@ -2,15 +2,15 @@
 
 
 
-### Introducción
+## Introducción
 
 La ciudad de Guayaquil es cuna de muchos lugares y edificios de gran interés e historia, por ello se ha preparado esta aplicación para que nos resulte mucho más sencillo identificar dichos puntos, muchos turistas e incluso personas de la ciudad no conocen o identifican bien estos lugares, esta herramienta puede ser de gran ayuda para esas personas.
 
-### Resumen 
+## Resumen 
 
 Se ha realizado una aplicación mediante Teachable Machine, con ella podemos identificar algunos de los edificios más emblemáticos de la ciudad de Guayaquil. Para su desarrollo se ha recolectado varias imágenes de muestra que han servido como referencia para que la aplicación pueda identificar estos puntos importantes. Esta aplicación puede llegar a ser muy útil para los turistas u otras personas que están conociendo la ciudad, y quieran identi-ficar ciertos puntos de la misma.
 
-### Desarrollo de la Aplicación
+## Desarrollo de la Aplicación
 
 1. **¿Que es teachable Machine?**
 
@@ -20,11 +20,11 @@ Aplicación Web que de una forma rápida y sencilla nos permite crear modelos de
 
 Teachable Machine se utiliza para reconocer imágenes, sonidos o posturas. Sube tus propios archivos de imagen o captúralos en vivo con un micrófono o una cámara web , Estos ejemplos permanecen en el dispositivo y nun-ca abandonan tu ordenador a menos que elijas guardar el proyecto en Google Drive.
 
-### Link de la Aplicación 
+## Link de la Aplicación 
 
-Visita el modelo directamente desde la apliación de Teachable Machine: [Edificios Emblemáticos](https://teachablemachine.withgoogle.com/models/8PDaz04GQ/)
+Visita el modelo directamente desde la apliación de Teachable Machine: _[Edificios Emblemáticos](https://teachablemachine.withgoogle.com/models/8PDaz04GQ/)_
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
