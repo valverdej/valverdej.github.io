@@ -16,6 +16,8 @@ Se ha realizado una aplicación mediante Teachable Machine, con ella podemos ide
 
 Aplicación Web que de una forma rápida y sencilla nos permite crear modelos de aprendizaje automático para nuestros sitios web, aplicaciones y mucho más, sin necesidad de conocimientos especializados ni de programar.
 
+![Interfaz Gráfica](https://storage.googleapis.com/replit/images/1574009876324_2721855c91f32df0231822bf36e84568.png)
+
 2. **¿Como se realizo la preparacion del modelo?**
 
 Teachable Machine se utiliza para reconocer imágenes, sonidos o posturas. Sube tus propios archivos de imagen o captúralos en vivo con un micrófono o una cámara web , Estos ejemplos permanecen en el dispositivo y nun-ca abandonan tu ordenador a menos que elijas guardar el proyecto en Google Drive.
