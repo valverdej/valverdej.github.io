@@ -17,6 +17,7 @@ Se ha realizado una aplicación mediante Teachable Machine, con ella podemos ide
 Aplicación Web que de una forma rápida y sencilla nos permite crear modelos de aprendizaje automático para nuestros sitios web, aplicaciones y mucho más, sin necesidad de conocimientos especializados ni de programar.
 
 ![Interfaz Gráfica](https://storage.googleapis.com/replit/images/1574009876324_2721855c91f32df0231822bf36e84568.png)
+`Interfaz Gráfica`
 
 2. **¿Como se realizo la preparacion del modelo?**
 
@@ -26,17 +27,7 @@ Teachable Machine se utiliza para reconocer imágenes, sonidos o posturas. Sube 
 
 Visita el modelo directamente desde la apliación de Teachable Machine: _[Edificios Emblemáticos](https://teachablemachine.withgoogle.com/models/8PDaz04GQ/)_
 
-`Este es un codigo de ejemplo`
-`cout<<"Hola"`
-`
-No se 
-si funciona asi 
-
-`
-
 ## Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -50,13 +41,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 # Teachable Machine Image Model
