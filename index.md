@@ -20,7 +20,7 @@ Aplicación Web que de una forma rápida y sencilla nos permite crear modelos de
 
 Teachable Machine se utiliza para reconocer imágenes, sonidos o posturas. Sube tus propios archivos de imagen o captúralos en vivo con un micrófono o una cámara web , Estos ejemplos permanecen en el dispositivo y nun-ca abandonan tu ordenador a menos que elijas guardar el proyecto en Google Drive.
 
-[Link](https://www.facebook.com/)
+[Edificios Emblemáticos](https://teachablemachine.withgoogle.com/models/8PDaz04GQ/)
 
 ### Markdown
 
