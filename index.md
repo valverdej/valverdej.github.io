@@ -28,8 +28,11 @@ Visita el modelo directamente desde la apliación de Teachable Machine: _[Edific
 
 `Este es un codigo de ejemplo`
 `cout<<"Hola"`
-`No se 
-si funciona asi `
+`
+No se 
+si funciona asi 
+
+`
 
 ## Markdown
 
