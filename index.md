@@ -26,6 +26,11 @@ Teachable Machine se utiliza para reconocer imágenes, sonidos o posturas. Sube 
 
 Visita el modelo directamente desde la apliación de Teachable Machine: _[Edificios Emblemáticos](https://teachablemachine.withgoogle.com/models/8PDaz04GQ/)_
 
+`Este es un codigo de ejemplo`
+`cout<<"Hola"`
+`No se 
+si funciona asi `
+
 ## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
